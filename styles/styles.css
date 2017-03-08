@@ -40,7 +40,7 @@ header h3 {
 }
 
 .mdl-layout__drawer {
-    background: rgb(0, 150, 136);;
+    background: rgb(0, 150, 136);
 }
 
 .mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
@@ -128,6 +128,10 @@ header h3 {
 
 #self-description > p {
     line-height: 2;
+}
+
+.mdl-card__supporting-text {
+    min-height: 104px;
 }
 
 .mdl-cell--0-offset-desktop #skills-description {
@@ -270,7 +274,6 @@ i[class*="mongo"] {
 /*================================|
                 CONTACT
 |================================*/
-
 
 .social,
 .resume {
